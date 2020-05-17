@@ -9,7 +9,7 @@
 	                "jdbccatalog": "VVVDR1",
 	                "adqlschema": "VVVDR1",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/VVVDR1_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/VVVDR1_TablesSchema.xml",
 	                    "catalog": "VVVDR1"
 	                }
 	            },
@@ -19,7 +19,7 @@
 	                "jdbccatalog": "VVVDR2",
 	                "adqlschema": "VVVDR2",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/VVVDR2_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/VVVDR2_TablesSchema.xml",
 	                    "catalog": "VVVDR2"
 	                }
 	            },
@@ -29,7 +29,7 @@
 	                "jdbccatalog": "VVVDR4",
 	                "adqlschema": "VVVDR4",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/VVVDR4_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/VVVDR4_TablesSchema.xml",
 	                    "catalog": "VVVDR4"
 	                }
 	            },
@@ -39,7 +39,7 @@
 	                "jdbccatalog": "VHSDR1",
 	                "adqlschema": "VHSDR1",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/VHSDR1_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/VHSDR1_TablesSchema.xml",
 	                    "catalog": "VHSDR1"
 	                }
 	            },
@@ -49,7 +49,7 @@
 	                "jdbccatalog": "VHSDR2",
 	                "adqlschema": "VHSDR2",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/VHSDR2_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/VHSDR2_TablesSchema.xml",
 	                    "catalog": "VHSDR2"
 	                }
 	            }, 
@@ -59,7 +59,7 @@
 	                "jdbccatalog": "VHSDR3",
 	                "adqlschema": "VHSDR3",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/VHSDR3_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/VHSDR3_TablesSchema.xml",
 	                    "catalog": "VHSDR3"
 	                }
 	            }, 
@@ -69,7 +69,7 @@
                         "jdbccatalog": "VHSDR6",
                         "adqlschema": "VHSDR6",
                         "metadata": {
-                            "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/VHSDR6_TablesSchema.xml",
+                            "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/VHSDR6_TablesSchema.xml",
                             "catalog": "VHSDR6"
                         }
                     }, 
@@ -80,7 +80,7 @@
 	                "jdbccatalog": "VMCDR1",
 	                "adqlschema": "VMCDR1",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/VMCDR1_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/VMCDR1_TablesSchema.xml",
 	                    "catalog": "VMCDR1"
 	                }
 	            }, 
@@ -90,7 +90,7 @@
 	                "jdbccatalog": "VMCDR2",
 	                "adqlschema": "VMCDR2",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/VMCDR2_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/VMCDR2_TablesSchema.xml",
 	                    "catalog": "VMCDR2"
 	                }
 	            }, 
@@ -100,7 +100,7 @@
 	                "jdbccatalog": "VMCDR3",
 	                "adqlschema": "VMCDR3",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/VMCDR3_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/VMCDR3_TablesSchema.xml",
 	                    "catalog": "VMCDR3"
 	                }
 	            }, 
@@ -110,7 +110,7 @@
 	                "jdbccatalog": "VMCDR4",
 	                "adqlschema": "VMCDR4",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/VMCDR4_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/VMCDR4_TablesSchema.xml",
 	                    "catalog": "VMCDR4"
 	                }
 	            }, 
@@ -120,7 +120,7 @@
 	                "jdbccatalog": "VIKINGDR2",
 	                "adqlschema": "VIKINGDR2",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/VIKINGDR2_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/VIKINGDR2_TablesSchema.xml",
 	                    "catalog": "VIKINGDR2"
 	                }
 	            }, 
@@ -130,7 +130,7 @@
 	                "jdbccatalog": "VIKINGDR3",
 	                "adqlschema": "VIKINGDR3",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/VIKINGDR3_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/VIKINGDR3_TablesSchema.xml",
 	                    "catalog": "VIKINGDR3"
 	                }
 	            }, 
@@ -140,7 +140,7 @@
 	                "jdbccatalog": "VIKINGDR4",
 	                "adqlschema": "VIKINGDR4",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/VIKINGDR4_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/VIKINGDR4_TablesSchema.xml",
 	                    "catalog": "VIKINGDR4"
 	                }
 	            }, 
@@ -150,7 +150,7 @@
 	                "jdbccatalog": "VIDEODR2",
 	                "adqlschema": "VIDEODR2",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/VIDEODR2_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/VIDEODR2_TablesSchema.xml",
 	                    "catalog": "VIDEODR2"
 	                }
 	            },  
@@ -160,7 +160,7 @@
 	                "jdbccatalog": "VIDEODR3",
 	                "adqlschema": "VIDEODR3",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/VIDEODR3_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/VIDEODR3_TablesSchema.xml",
 	                    "catalog": "VIDEODR3"
 	                }
 	            }, 
@@ -170,7 +170,7 @@
 	                "jdbccatalog": "VIDEODR4",
 	                "adqlschema": "VIDEODR4",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/VIDEODR4_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/VIDEODR4_TablesSchema.xml",
 	                    "catalog": "VIDEODR4"
 	                }
 	            },       
@@ -180,7 +180,7 @@
 	                "jdbccatalog": "VIDEODR5",
 	                "adqlschema": "VIDEODR5",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/VIDEODR5_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/VIDEODR5_TablesSchema.xml",
 	                    "catalog": "VIDEODR5"
 	                }
 	            },  
@@ -190,7 +190,7 @@
 	                "jdbccatalog": "UKIDSSDR4PLUS",
 	                "adqlschema": "UKIDSSDR4PLUS",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/UKIDSSDR4PLUS_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/UKIDSSDR4PLUS_TablesSchema.xml",
 	                    "catalog": "UKIDSSDR4PLUS"
 	                }
                     },  
@@ -200,7 +200,7 @@
 	                "jdbccatalog": "UKIDSSDR5PLUS",
 	                "adqlschema": "UKIDSSDR5PLUS",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/UKIDSSDR5PLUS_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/UKIDSSDR5PLUS_TablesSchema.xml",
 	                    "catalog": "UKIDSSDR5PLUS"
 	                }
                 },  
@@ -210,7 +210,7 @@
 	                "jdbccatalog": "UKIDSSDR6PLUS",
 	                "adqlschema": "UKIDSSDR6PLUS",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/UKIDSSDR6PLUS_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/UKIDSSDR6PLUS_TablesSchema.xml",
 	                    "catalog": "UKIDSSDR6PLUS"
 	                }
                 },                
@@ -220,7 +220,7 @@
 	                "jdbccatalog": "UKIDSSDR7PLUS",
 	                "adqlschema": "UKIDSSDR7PLUS",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/UKIDSSDR7PLUS_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/UKIDSSDR7PLUS_TablesSchema.xml",
 	                    "catalog": "UKIDSSDR7PLUS"
 	                }
                 },                  
@@ -230,7 +230,7 @@
 	                "jdbccatalog": "UKIDSSDR8PLUS",
 	                "adqlschema": "UKIDSSDR8PLUS",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/UKIDSSDR8PLUS_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/UKIDSSDR8PLUS_TablesSchema.xml",
 	                    "catalog": "UKIDSSDR8PLUS"
 	                }
                 },
@@ -240,7 +240,7 @@
 	                "jdbccatalog": "UKIDSSDR9PLUS",
 	                "adqlschema": "UKIDSSDR9PLUS",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/UKIDSSDR9PLUS_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/UKIDSSDR9PLUS_TablesSchema.xml",
 	                    "catalog": "UKIDSSDR9PLUS"
 	                }
                 }, 
@@ -250,7 +250,7 @@
 	                "jdbccatalog": "UKIDSSDR10PLUS",
 	                "adqlschema": "UKIDSSDR10PLUS",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/UKIDSSDR10PLUS_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/UKIDSSDR10PLUS_TablesSchema.xml",
 	                    "catalog": "UKIDSSDR10PLUS"
 	                }
                 }, 
@@ -260,7 +260,7 @@
 	                "jdbccatalog": "BestDR1",
 	                "adqlschema": "SDSSDR1",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/BESTDR1_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/BESTDR1_TablesSchema.xml",
 	                    "catalog": "BestDR1"
 	                }
                 }, 
@@ -270,7 +270,7 @@
 	                "jdbccatalog": "BestDR3",
 	                "adqlschema": "SDSSDR3",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/BESTDR3_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/BESTDR3_TablesSchema.xml",
 	                    "catalog": "BestDR3"
 	                }
                 }, 
@@ -280,7 +280,7 @@
 	                "jdbccatalog": "BestDR5",
 	                "adqlschema": "SDSSDR5",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/BESTDR5_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/BESTDR5_TablesSchema.xml",
 	                    "catalog": "BestDR5"
 	                }
                 }, 
@@ -290,7 +290,7 @@
 	                "jdbccatalog": "BestDR7",
 	                "adqlschema": "SDSSDR7",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/BESTDR7_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/BESTDR7_TablesSchema.xml",
 	                    "catalog": "BestDR7"
 	                }
                 }, 
@@ -300,7 +300,7 @@
 	                "jdbccatalog": "BestDR8",
 	                "adqlschema": "SDSSDR8",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/BESTDR8_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/BESTDR8_TablesSchema.xml",
 	                    "catalog": "BestDR8"
 	                }
                 }, 
@@ -310,7 +310,7 @@
 	                "jdbccatalog": "BestDR9",
 	                "adqlschema": "SDSSDR9",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/BESTDR9_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/BESTDR9_TablesSchema.xml",
 	                    "catalog": "BestDR9"
 	                }
                 }, 
@@ -320,7 +320,7 @@
                         "jdbccatalog": "EXTINCT",
                         "adqlschema": "EXTINCT",
                         "metadata": {
-                            "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/EXTINCT_TablesSchema.xml",
+                            "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/EXTINCT_TablesSchema.xml",
                             "catalog": "EXTINCT"
                         }
                 }, 
@@ -330,7 +330,7 @@
 	                "jdbccatalog": "TWOMASS",
 	                "adqlschema": "2MASS",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/TWOMASS_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/TWOMASS_TablesSchema.xml",
 	                    "catalog": "TWOMASS"
 	                }
                 }, 
@@ -340,7 +340,7 @@
 	                "jdbccatalog": "ROSAT",
 	                "adqlschema": "ROSAT",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/ROSAT_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/ROSAT_TablesSchema.xml",
 	                    "catalog": "ROSAT"
 	                }
                 }, 
@@ -350,7 +350,7 @@
 	                "jdbccatalog": "FIRST",
 	                "adqlschema": "FIRST",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/FIRST_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/FIRST_TablesSchema.xml",
 	                    "catalog": "FIRST"
 	                }
                 },
@@ -360,7 +360,7 @@
 	                "jdbccatalog": "IRAS",
 	                "adqlschema": "IRAS",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/IRAS_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/IRAS_TablesSchema.xml",
 	                    "catalog": "IRAS"
 	                }
                 },
@@ -370,7 +370,7 @@
 	                "jdbccatalog": "SSA",
 	                "adqlschema": "SSA",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/SSA_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/SSA_TablesSchema.xml",
 	                    "catalog": "SSA"
 	                }
                 },  
@@ -380,7 +380,7 @@
 	                "jdbccatalog": "GLIMPSE",
 	                "adqlschema": "GLIMPSE",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/GLIMPSE_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/GLIMPSE_TablesSchema.xml",
 	                    "catalog": "GLIMPSE"
 	                }
                 },  
@@ -390,7 +390,7 @@
 	                "jdbccatalog": "TWOXMM",
 	                "adqlschema": "2XMM",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/TWOXMM_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/TWOXMM_TablesSchema.xml",
 	                    "catalog": "TWOXMM"
 	                }
                 }, 
@@ -400,7 +400,7 @@
 	                "jdbccatalog": "MGC",
 	                "adqlschema": "MGC",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/MGC_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/MGC_TablesSchema.xml",
 	                    "catalog": "MGC"
 	                }
                 },  
@@ -410,7 +410,7 @@
 	                "jdbccatalog": "Stripe82",
 	                "adqlschema": "Stripe82",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/Stripe82_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/Stripe82_TablesSchema.xml",
 	                    "catalog": "Stripe82"
 	                }
                 },  
@@ -420,7 +420,7 @@
 	                "jdbccatalog": "WISE",
 	                "adqlschema": "WISE",
 	                "metadata": {
-	                    "metadoc": "https://raw.githubusercontent.com/wfau/metadata/master/metadocs/WISE_TablesSchema.xml",
+	                    "metadoc": "https://raw.githubusercontent.com/stvoutsin/metadata/master/metadocs/WISE_TablesSchema.xml",
 	                    "catalog": "WISE"
 	                }
                 } 
